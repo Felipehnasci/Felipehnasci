@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/in/felipe-henriques-066473281/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
-<div>
+<div height="360em">
   <a href="https://github.com/felipehnasci">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipehnasci&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipehnasci&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipehnasci&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipehnasci&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <a href="https://skillicons.dev">
