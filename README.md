@@ -8,8 +8,8 @@
 <br>
 <div>
   <a href="https://github.com/felipehnasci">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrohenriquebrandao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrohenriquebrandao&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=felipehnasci&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=felipehnasci&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <a href="https://skillicons.dev">
