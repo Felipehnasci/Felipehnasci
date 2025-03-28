@@ -12,5 +12,5 @@
 </div>
 <br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,vscode, python, jupyter notebook, discord,github," />
+    <img src="https://skillicons.dev/icons?i=c,vscode,python,discord,github," />
 </div>
